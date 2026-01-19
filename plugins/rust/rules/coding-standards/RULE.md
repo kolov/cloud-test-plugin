@@ -1,6 +1,8 @@
 ---
 name: rust-coding-standards
 description: Rust coding standards and best practices. Applies when writing, reviewing, or modifying Rust code.
+globs:
+  - "**/*.rs"
 ---
 
 # Rust Coding Standards
