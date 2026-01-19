@@ -1,0 +1,12 @@
+{
+  "name": "cloud-test-plugin",
+  "description": "Claude Code plugins for cloud testing",
+  "owner": {
+    "name": "kolov"
+  },
+  "plugins": [
+    {
+      "path": "plugins/rust"
+    }
+  ]
+}
