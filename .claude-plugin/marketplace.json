@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "cx-rust",
-      "source": "plugins/rust"
+      "source": "./plugins/rust"
     }
   ]
 }
